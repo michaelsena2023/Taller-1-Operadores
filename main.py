@@ -96,15 +96,3 @@ while ejercicios < 99:
     print("El valor del radio es de",ñ )
     print("El valor de la longitud es de", lon)
     print("el area de su circulo es de",a)
-
-#promedio
-
-print("escriba su primer valor")
-n1=float(input())
-print("escriba su segundo valor")
-n2=float(input())
-print("escriba su tercer valor")
-n3=float(input())
-suma=n1+n2+n3
-division=s/3
-print("El promedio es de",division)
